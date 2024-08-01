@@ -36,10 +36,10 @@ Welcome to the repository containing tutorials for building decentralized applic
    cd CoreDao-Tutorials
 
 
-### Navigate to a Tutorial Folder
+### 2 .Navigate to a Tutorial Folder
 Each tutorial is located in its respective folder (`dapp-01`, `dapp-02`, `dapp-03`). Navigate to the desired tutorial to view or modify its code.
 
-### Check Deployed Contracts
+### 3. Check Deployed Contracts
 Within each tutorial folder, you will find a `deployed.json` file. This file contains the addresses of the deployed smart contracts on the Core Testnet. Use these addresses to interact with the contracts or verify their deployment.
 
 ### Follow the Tutorial
